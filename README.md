@@ -8,7 +8,7 @@
 - 🤖 RPA & AI Enthusiast
 - 🌐 IoT & Device Communication (ESP32, TCP/IP)
   
-https://github-readme-stats.vercel.app/api?username=meltem-kocak&show_icons=true&theme=tokyonight
+![GitHub Stats](https://gh-stats.vercel.app/api?username=meltem-kocak&show_icons=true&theme=tokyonight)
 ---
 
 ## 🧠 Working Areas
