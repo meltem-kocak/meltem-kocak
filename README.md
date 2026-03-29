@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meltemkocak&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meltem-kocak&show_icons=true&theme=tokyonight)
 ---
 
 ## 🧠 Working Areas
