@@ -24,7 +24,9 @@
 - REST APIs
 - Git & GitHub
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,git,github,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,cs,css,dart,dotnet,firebase,flutter,git,html,java,js,kotlin,mysql,nodejs,redux,postman,python" />
+</p>
 
 ## 📫 Contact Me
 - GitHub: https://github.com/meltem-kocak
