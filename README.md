@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,dart,dotnet,firebase,flutter,git,html,java,js,kotlin,mysql,nodejs,redux,postman,python" />
 
 ## 📫 Contact Me
-- GitHub: https://github.com/meltem-kocak
+- GitHub: https://github.com/MeltemKocak
 - LinkedIn: https://www.linkedin.com/in/meltemkocak
 
 ---
