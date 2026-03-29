@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Mobile+%26+Backend+Developer;RPA+%26+AI+Enthusiast;IoT+Engineer)
 ## Hi there 👋
-# I'm Meltem Koçak
+# I'm Meltem Sena Koçak
 
 ## 🚀 About Me
 - 💻 Software Developer
@@ -31,5 +31,3 @@
 - LinkedIn: https://www.linkedin.com/in/meltemkocak
 
 ---
-
-⭐️ From Meltem Koçak
