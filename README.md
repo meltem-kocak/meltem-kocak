@@ -7,11 +7,7 @@
 - 📱 Mobile & Backend Developer
 - 🤖 RPA & AI Enthusiast
 - 🌐 IoT & Device Communication (ESP32, TCP/IP)
-
----
-
-## 📊 GitHub Stats
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meltem-kocak&show_icons=true&theme=tokyonight)
 ---
 
