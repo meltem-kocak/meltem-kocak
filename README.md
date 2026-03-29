@@ -7,9 +7,6 @@
 - 📱 Mobile & Backend Developer
 - 🤖 RPA & AI Enthusiast
 - 🌐 IoT & Device Communication (ESP32, TCP/IP)
-  
-![GitHub Stats](https://gh-stats.vercel.app/api?username=meltem-kocak&show_icons=true&theme=tokyonight)
----
 
 ## 🧠 Working Areas
 - Mobile App Development (Flutter)
@@ -27,8 +24,7 @@
 - REST APIs
 - Git & GitHub
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,mssql,git,github,postman" />
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,git,github,postman,azure" />
 
 ## 📫 Contact Me
 - GitHub: https://github.com/meltem-kocak
