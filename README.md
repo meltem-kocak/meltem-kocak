@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Mobile+%26+Backend+Developer;RPA+%26+AI+Enthusiast;IoT+Engineer)
 ## Hi there 👋
 # I'm Meltem Koçak
 
@@ -7,6 +8,11 @@
 - 🤖 RPA & AI Enthusiast
 - 🌐 IoT & Device Communication (ESP32, TCP/IP)
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meltemkocak&show_icons=true&theme=tokyonight)
 ---
 
 ## 🧠 Working Areas
@@ -25,6 +31,7 @@
 - REST APIs
 - Git & GitHub
 
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,mssql,git,github,postman" />
 ---
 
 ## 📫 Contact Me
